@@ -1,0 +1,2 @@
+# XGBoost-Home-Price-Prediction
+ XGBoost Home Price Prediction  This repository contains code for predicting home prices using XGBoost, a powerful gradient boosting algorithm, with factors such as income, schools, hospitals, and crime rates. It includes exploratory data analysis (EDA) visualizations using Python libraries like pandas, matplotlib, and seaborn, followed by training Linear Regression and Gradient Boosting Regressor models to predict home prices based on various features.
